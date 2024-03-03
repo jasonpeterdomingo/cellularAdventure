@@ -1,8 +1,8 @@
-# henHacksScienceGame
-Science Game for HenHacks2024
+# Cellular Adventure
+Biology Game for HenHacks2024
 
 ## Group Members
-Tristan Dendorfer: tdendorf@udel.edu <b>
-Jason Domingo: jayprdom@udel.edu <b>
-James Gatonye: jamegato@udel.edu <b>
+Tristan Dendorfer: tdendorf@udel.edu <br>
+Jason Domingo: jayprdom@udel.edu <br>
+James Gatonye: jamegato@udel.edu <br>
 Winnie Li: winnie@udel.edu
